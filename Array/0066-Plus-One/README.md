@@ -1,4 +1,4 @@
-# TwoSum
+# PlusOne
 
 ## Example 1:
 ```
